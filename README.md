@@ -11,6 +11,7 @@ Technical writer with experience in creating user guides, installation manuals, 
 ## Portfolio Sections
 
 * User Documentation: End-user guides and manuals
+* Docs-as-Code: Markdown-based documentation
 
 ## Tools and Technologies
 
