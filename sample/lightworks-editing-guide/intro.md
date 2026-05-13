@@ -1,4 +1,3 @@
-```markdown
 # LightWorks Editing Guide
 **Getting Started Guide**  
 Created by Manikandan.M  
@@ -152,4 +151,3 @@ Steps:
    - Frame rate  
    - Size  
 5. Click **Start**
-```
